@@ -1,0 +1,4 @@
+user:fernando
+password:contraseña1234
+host:localhost
+db:cine
