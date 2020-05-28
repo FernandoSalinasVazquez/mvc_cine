@@ -2,5 +2,5 @@
 
 Datos para ingresar como admin:
 Username: fernando
-Contraseña: Contraseña123
+Contraseña: contraseña123
 
